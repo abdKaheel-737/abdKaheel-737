@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Abd Kaheel  
 
-<!--
-**abdKaheel-737/abdKaheel-737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer (JavaScript)  
+🚀 Currently learning React  
+🌍 Based in Netherlands  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- I’m improving my JavaScript skills  
+- Currently learning React  
+- I love building UI and modern web apps  
+
+---
+
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+- React.js
+- Git & GitHub
+
+---
+
+## 📂 Projects
+🔹 Coming soon...  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=abdKaheel-737&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- LinkedIn: (add later)
